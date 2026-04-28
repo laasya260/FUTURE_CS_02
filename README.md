@@ -13,3 +13,5 @@ Each email was checked for warning signs like fake sender addresses, urgency lan
 **Disclaimer**
 
 All email samples are reconstructed from real patterns for educational purposes only. No malware or attack tools are included.
+
+Phishing Detection & Awareness Report: The comprehensive assessment containing the executive summary, methodology, and embedded sample email evidence (screenshots).
